@@ -1,13 +1,12 @@
 ---
-title: Overview - Cat Analytics
-description: This is the overview page of Cat Analytics
-contributors:
-  - https://github.com/icaraps 
+title: Adobe Experience Manager as a Cloud Service APIs
+description: A collection of high-level references for all endpoints provided by Adobe Experience Manager as a Cloud Service.
+
 ---
 
 <Hero slots="heading, text"/> 
 
-# Cat Analytics API
+#  Adobe Experience Manager as a Cloud Service
 
 Cat Product API offers limitless ways to integrate your most important customer data into key business processes. Cat Product API offer limitless ways.
 
@@ -20,11 +19,8 @@ Cat Product API offers limitless ways to integrate your most important customer 
 
 ## Overview
 
-This documentation provides instructions for Catt Analytics 2.0 APIs. For working with Cat Analytics APIs, see [Cat Analytics API Documentation](https://github.com/AdobeDocs/dev-site).
+This documentation provides instructions for AEM as a Cloud Service APIs. 
 
-The Cat Analytics APIs are a collection of APIs that power Cat Analytics products like Cat Workspace. 
-The APIs allow for the creation of data rich user interfaces that you can use to manipulate and integrate data.
-You can also create reports to explore, get insights, or answer important questions about your data.
 
 ## Discover 
 
@@ -34,7 +30,7 @@ You can also create reports to explore, get insights, or answer important questi
 
 [Quickstart Guide](guides/)
     
-Get started with the Cat Analytics APIs.
+Get started with the AEM as a Cloud Service APIs.
 
 <DiscoverBlock slots="heading, link, text"/> 
 
