@@ -597,6 +597,7 @@ components:
           description: The `data` field, where the result of the operation is stored`.
     AuthoringInfo:
       readOnly: true
+      type: string
       nullable: false
       description: Information about the content fragment authoring operation.
       properties:
@@ -610,6 +611,7 @@ components:
           description: The identifier of the author who performed the operation.
     FragmentModel:
       readOnly: true
+      type: string
       nullable: false
       description: Information about the content fragment model.
       properties:
@@ -993,7 +995,7 @@ components:
           schema:
             $ref: '#/components/schemas/JsonPatchDocument'
           examples:
-            test and replace:
+            test_and_replace:
               value:
                 - op: test
                   path: /title
@@ -1002,7 +1004,7 @@ components:
                   path: /title
                   value: aem-cloud-service-from-a-developer-perspective, revisited
               description: Test title value and replace with new value.
-            remove and add element:
+            remove_and_add_element:
               value:
                 - op: remove
                   path: /variations/mobile/elements/endTime
@@ -1012,7 +1014,7 @@ components:
               description: >-
                 Remove a property and add a 1st element in the multi-valued
                 property.
-            set rich-text as markdown:
+            set_rich-text_as_markdown:
               value:
                 - op: replace
                   path: /elements/outline
@@ -1029,14 +1031,14 @@ components:
                 Replace current rich-text value with markdown-formatted value.
                 Please note that the patch <i>value</i> is passed as JSON
                 object.
-            add new variation:
+            add_new_variation:
               value:
                 - op: add
                   path: /variations/myNewVariation
                   value:
                     title: New Variation
                     description: Some optional description
-            remove variation:
+            remove_variation:
               value:
                 - op: remove
                   path: /variations/myNewVariation
