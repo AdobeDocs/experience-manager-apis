@@ -3,7 +3,17 @@ info:
   title: Sites API
   version: 2023.01-experimental
 servers:
-  - url: /adobe/sites
+  - url: https://{tier}-p{program}-e{environment}-cmstg.adobeaemcloud.com/adobe/sites
+    variables:
+      tier:
+        default: author
+        enum:
+          - author
+          - publish
+      program:
+        default: ''
+      environment:
+        default: ''
 tags:
   - name: Fragments
     description: Content Fragments Operations
