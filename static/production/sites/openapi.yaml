@@ -742,7 +742,7 @@ components:
                 type: string
                 default: Internal Server Error
   parameters:
-    X-Adobe-Accept-Unsupported-API:
+    X-Adobe-Accept-Unsupported-API1:
       name: X-Adobe-Accept-Unsupported-API
       in: header
       required: true
