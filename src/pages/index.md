@@ -71,11 +71,7 @@ Workflows
 
 <DiscoverBlock slots="heading, link, text"/>
 
-### Reporting and Infrastructure
-
-Stats
-
-[OpenAPI](https://developer-stage.adobe.com/experience-cloud/experience-manager-apis/api/#stats)
+### Infrastructure
 
 <DiscoverBlock slots="link, text"/>
 
