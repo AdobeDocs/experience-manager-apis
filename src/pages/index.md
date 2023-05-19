@@ -43,7 +43,8 @@ Sites
 
 Assets
 
-[APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/mac-api-assets.html?lang=en), [Assets Compute HTTP API](https://experienceleague.adobe.com/docs/asset-compute/using/api.html?lang=en)
+- [Assets HTTP API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/mac-api-assets.html?lang=en)
+- [Asset Compute HTTP API](https://experienceleague.adobe.com/docs/asset-compute/using/api.html?lang=en)
 
 <DiscoverBlock slots="link, text"/>
 
@@ -92,7 +93,7 @@ Cloud Manager
 
 ### App Builder
 
-[Assets Compute](https://experienceleague.adobe.com/docs/asset-compute/using/extend/understand-extensibility.html?lang=en)
+[Asset Compute](https://experienceleague.adobe.com/docs/asset-compute/using/extend/understand-extensibility.html?lang=en)
 
 <DiscoverBlock slots="link"/>
 
@@ -120,7 +121,8 @@ Sites
 
 Assets
 
-[Java API](https://javadoc.io/doc/com.adobe.aem/aem-sdk-api/latest/com/day/cq/dam/api/package-summary.html)
+- [CQ Java API](https://developer.adobe.com/experience-manager/reference-materials/cloud-service/javadoc/com/day/cq/dam/api/package-summary.html)
+- [Granite Java API](https://developer.adobe.com/experience-manager/reference-materials/cloud-service/javadoc/com/adobe/granite/asset/api/package-summary.html)
 
 <DiscoverBlock slots="link, text"/>
 
