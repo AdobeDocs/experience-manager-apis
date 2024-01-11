@@ -29,7 +29,7 @@ Clients receiving JSON payload must be forgiving when processing the payload and
 
 Usually an API will support a **limit** query parameter to indicate the desired number of results to return. Documentation will state the default limit and any minimum or maximum values.
 
-If there are more resources in the collection than returend, the output result will include a parameter named **cursor**, which can be used in the LIST API call to retrieve the next set of resources in the collection.
+If there are more resources in the collection than returned, the output result will include a **cursor** property. The cursor's value can then be used in a subsequent LIST API call to retrieve the next set of resources in the collection, by passing the returned value to the **cursor** query parameter.
 
 Empty collections are represented as an empty array.
 
