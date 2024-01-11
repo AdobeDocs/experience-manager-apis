@@ -7,7 +7,7 @@ description: How to use AEM OpenAPI-based APIs
 
 ### Introduction
 
-AEM as a Cloud Service offers a variety of APIs that adhere to the [OpenAPI Specification](https://swagger.io/specification/v2/) (version 2).
+AEM as a Cloud Service offers a variety of APIs that adhere to the [OpenAPI Specification](https://spec.openapis.org/oas/v3.0.3).
 
 For a full list of provided APIs and supported events, see the [APIs documentation](/).
 
