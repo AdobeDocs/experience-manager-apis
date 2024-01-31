@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkexperience_manager_apis=self.webpackChunkexperience_manager_apis||[]).push([[453],{19802:function(n,e,t){t.r(e),t.d(e,{_frontmatter:function(){return p},default:function(){return m}});var r=t(87462),o=t(63366),a=(t(15007),t(64983)),u=t(91515),c=["components"],p={},s={_frontmatter:p},i=u.Z;function m(n){var e=n.components,t=(0,o.Z)(n,c);return(0,a.mdx)(i,(0,r.Z)({},s,t,{components:e,mdxType:"MDXLayout"}))}m.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-api-experimental-stats-index-md-51ec6d8b938832a2dfb9.js.map
