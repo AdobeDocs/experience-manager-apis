@@ -30,7 +30,7 @@ A comprehensive content management solution for building websites, mobile apps a
 **Assets**
 
 * [Web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en)
-* [New Dynamic Media APIs (Experimental)](./api/experimental/assets/delivery/)
+* [Dynamic Media with Open API](./api/experimental/assets/delivery/)
 
 <DiscoverBlock slots="heading, link, text"/>
 
