@@ -1,4 +1,4 @@
 ---
 title: MSM Open API
-frameSrc: https://adobe-aem-sites-delivery-fragmentdelivery.redoc.ly/
+frameSrc: https://adobe-aem-livecopies-author-msm.redoc.ly/
 --- 
