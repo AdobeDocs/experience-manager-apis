@@ -18,6 +18,7 @@ A comprehensive content management solution for building websites, mobile apps a
 **Structured**
 
 * [GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html)
+* [Content Fragments and Model Delivery (Experimental)](./api/experimental/sites/delivery/)
 
 <DiscoverBlock slots="link, text"/>
 
@@ -39,7 +40,6 @@ A comprehensive content management solution for building websites, mobile apps a
 **Sites**
 
 * [Content Fragments and Model Management](./api/stable/sites/)
-* [Content Fragments and Model Delivery (Experimental)](./api/experimental/sites/delivery/)
 * [Content Fragments in Assets API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/assets-api-content-fragments.html?lang=en)
 * [Update Pages via Sling Post Servlet](https://sling.apache.org/documentation/bundles/manipulating-content-the-slingpostservlet-servlets-post.html)
 * [Multisite Manager (Experimental)](./api/experimental/sites/msm/)
