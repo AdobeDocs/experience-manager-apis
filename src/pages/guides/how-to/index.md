@@ -15,11 +15,25 @@ This guide describes the common patterns applying to all APIs.
 
 ### Authentication
 
-Credentials should be generated using the AEM Developer Console. A short-lived [development access token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html#generating-the-access-token) can be generated for one-off API usage, while for persistent code, [a longer-lived JWT token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en#generate-a-jwt-token-and-exchange-it-for-an-access-token) can be generated to exchange for an access token.  
+The authentication strategy will depend on whether you plan a server to server or user flow (web app or SPA) implementation, as described in [this article](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/overview#difference-between-oauth-server-to-server-and-oauth-web-app-single-page-app-credentials).
+
+In all cases, [create a project](https://developer.adobe.com/developer-console/docs/guides/projects/projects-empty/) in the Adobe Developer Console, which provides the necessary credentials.
 
 Pass the token as the value of the Authorization header as follows:
 
 `curl -H "Authorization: Bearer <access_token>" <https://<endpoint_url>`
+
+#### Server to Server authentication {#auth-s2s}
+
+For prototyping purposes (e.g., curl), you can generate an access token by clicking a button in the Adobe Developer Console, [as described](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/#generate-access-tokens).
+
+For application integration, you can programmatically generate an access token [as described](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/#generating-access-tokens-programmatically), potentially using a standard OAuth2 library. It is important to cache the access token as long as it is still active, only retrieving a new token when it has expired.
+
+#### User flow authentication {#auth-userflow}
+
+For web app integrations, write code to exchange an authorization code for an access token, [as described](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#access-token-retrieval).
+
+For SPA integrations, follow the guidelines in [this article](https://developer.adobe.com/developer-console/docs/guides/authentication/UserAuthentication/implementation/#oauth-single-page-app-credential).
 
 ### JSON Payloads
 
