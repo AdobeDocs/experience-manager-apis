@@ -11,6 +11,12 @@ Browse the [AEM a Cloud Service documentation](https://experienceleague.adobe.co
 
 ## Articles
 
+### Configuring the OpenAPI-based APIs
+
+Before invoking the OpenAPI-based APIs, create an Adobe Developer Console project mapping one or more APIs to specific environments it can access. Then register the Adobe Developer Console project's client ID with the intended AEM Cloud Service environment.
+
+[Learn more](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/open-api-based-apis#configuring-api-access)
+
 ### Using the OpenAPI-based APIs
 
 Program with AEM as a Cloud Service's OpenAPI-based APIs, following patterns including authentication, error handling, and selecting between stable and experimental versions.
@@ -23,6 +29,14 @@ AEM as a Cloud Service offers a cloud-native solution for AEM expandability. Dev
 
 [Learn more](/src/pages/guides/events/index.md)
 
-### End-to-End Use Case
+### Tutorial: Server-to-Server authentication with OpenAPI-based APIs
+
+[Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis?lang=en) about how to configure and invoke OpenAPI-based APIs using OAuth Server-to-Server authentication, intended for backend services needing API access without user interaction. You will develop a sample NodeJS application that calls the Assets Author API to retrieve asset metadata.
+
+### Tutorial: Web App authentication with OpenAPI-based APIs
+
+[Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app) about how to configure and invoke OpenAPI-based APIs using an external web app that performs OAuth Web App authentication, intended for web applications with frontend and backend components needing to access AEM APIs on behalf of a user. You will develop a sample NodeJS application representing a PIM (Product Information Management) solution that interacts with an AEM Author environment.
+
+### Tutorial: Using OpenAPI-based APIs and Events
 
 Take a look at [AEM Assets events for PIM integration](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/examples/assets-pim-integration) to learn the steps that are needed to onboard the OpenAPI-based APIs and IO Events for the use case of importing metadata from a third-party system whenever a new asset is uploaded into the DAM. This is a great walkthrough for this use case, but also as an example of how to get started with these new development patterns.
