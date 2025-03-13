@@ -97,7 +97,8 @@ A comprehensive content management solution for building websites, mobile apps a
 
 **Translation**
 
-* [Translation HTTP API (Experimental)](./api/experimental/translation/index.md)
+* [Translation Management API](./api/stable/translation/index.md)
+* [Translation Management API (Experimental)](./api/experimental/translation/index.md)
 
 <DiscoverBlock slots="heading, link, text"/>
 
