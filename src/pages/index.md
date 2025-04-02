@@ -62,7 +62,7 @@ A comprehensive content management solution for building websites, mobile apps a
 
 * [Translation Management API](./api/stable/translation/index.md)
 
-<Hero slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link, text"/>
 
 ## Other HTTP APIs
 
