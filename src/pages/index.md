@@ -62,8 +62,6 @@ A comprehensive content management solution for building websites, mobile apps a
 
 * [Translation Management API](./api/stable/translation/index.md)
 
-<DiscoverBlock slots="heading, link, text"/>
-
 ## Other HTTP APIs
 
 <DiscoverBlock slots="heading, link, text"/>
