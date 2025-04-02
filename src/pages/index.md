@@ -27,7 +27,7 @@ A comprehensive content management solution for building websites, mobile apps a
 * [Content Fragments and Model Management](./api/stable/sites/)
 * [Multisite Manager (Experimental)](./api/experimental/sites/msm/)
 * [Launches (Experimental)](./api/experimental/sites/launches/)
-* 
+  
 <DiscoverBlock slots="link, text"/>
 
 **Assets**
