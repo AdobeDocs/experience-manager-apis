@@ -56,11 +56,13 @@ A comprehensive content management solution for building websites, mobile apps a
 
 * [Statistics API (Experimental)](./api/experimental/stats/index.md)
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="link, text"/>
 
 **Translation**
 
 * [Translation Management API](./api/stable/translation/index.md)
+
+<Hero slots="heading, text"/>
 
 ## Other HTTP APIs
 
