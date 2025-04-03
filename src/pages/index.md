@@ -9,28 +9,13 @@ description: A collection of high-level references for all endpoints provided by
 
 A comprehensive content management solution for building websites, mobile apps and forms.
 
-## HTTP APIs
+## OpenAPI-based APIs
 
 <DiscoverBlock slots="heading, link, text"/>
 
 ### Delivery
 
-**Structured**
-
-* [GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html)
 * [Content Fragments and Model Delivery (Experimental)](./api/experimental/sites/delivery/)
-
-<DiscoverBlock slots="link, text"/>
-
-**Unstructured (content services)**
-
-* [Content Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/components-templates/json-exporter.html?lang=en)
-
-<DiscoverBlock slots="link, text"/>
-
-**Assets**
-
-* [Web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en)
 * [Dynamic Media with Open API](./api/stable/assets/delivery/index.md)
 
 <DiscoverBlock slots="heading, link, text"/>
@@ -40,18 +25,14 @@ A comprehensive content management solution for building websites, mobile apps a
 **Sites**
 
 * [Content Fragments and Model Management](./api/stable/sites/)
-* [Content Fragments in Assets API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/assets-api-content-fragments.html?lang=en)
-* [Update Pages via Sling Post Servlet](https://sling.apache.org/documentation/bundles/manipulating-content-the-slingpostservlet-servlets-post.html)
 * [Multisite Manager (Experimental)](./api/experimental/sites/msm/)
 * [Launches (Experimental)](./api/experimental/sites/launches/)
-
+  
 <DiscoverBlock slots="link, text"/>
 
 **Assets**
 
 * [Assets Author API (Experimental)](./api/experimental/assets/author/)
-* [APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/mac-api-assets.html?lang=en)
-* [Asset Compute HTTP API](https://experienceleague.adobe.com/docs/asset-compute/using/api.html?lang=en)
 
 <DiscoverBlock slots="link, text"/>
 
@@ -71,6 +52,56 @@ A comprehensive content management solution for building websites, mobile apps a
 
 <DiscoverBlock slots="link, text"/>
 
+**Statistics**
+
+* [Statistics API (Experimental)](./api/experimental/stats/index.md)
+
+<DiscoverBlock slots="link, text"/>
+
+**Translation**
+
+* [Translation Management API](./api/stable/translation/index.md)
+
+## Other HTTP APIs
+
+<DiscoverBlock slots="heading, link, text"/>
+
+### Delivery
+
+**Structured**
+
+* [GraphQL](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html)
+
+<DiscoverBlock slots="link, text"/>
+
+**Unstructured (content services)**
+
+* [Content Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/components-templates/json-exporter.html?lang=en)
+
+<DiscoverBlock slots="link, text"/>
+
+**Assets**
+
+* [Web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en)
+
+<DiscoverBlock slots="heading, link, text"/>
+
+### Applications and Authoring
+
+**Sites**
+
+* [Content Fragments in Assets API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/assets-api-content-fragments.html?lang=en)
+* [Update Pages via Sling Post Servlet](https://sling.apache.org/documentation/bundles/manipulating-content-the-slingpostservlet-servlets-post.html)
+
+<DiscoverBlock slots="link, text"/>
+
+**Assets**
+
+* [APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/mac-api-assets.html?lang=en)
+* [Asset Compute HTTP API](https://experienceleague.adobe.com/docs/asset-compute/using/api.html?lang=en)
+
+<DiscoverBlock slots="link, text"/>
+
 **Search**
 
 * [Query Builder](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/search/query-builder-api.html?lang=en)
@@ -86,18 +117,6 @@ A comprehensive content management solution for building websites, mobile apps a
 **Workflows**
 
 * [Workflow API](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-program-interaction.html?lang=en)
-
-<DiscoverBlock slots="link, text"/>
-
-**Statistics**
-
-* [Statistics API (Experimental)](./api/experimental/stats/index.md)
-
-<DiscoverBlock slots="heading, link, text"/>
-
-**Translation**
-
-* [Translation Management API](./api/stable/translation/index.md)
 
 <DiscoverBlock slots="heading, link, text"/>
 

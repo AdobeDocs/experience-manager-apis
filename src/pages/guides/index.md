@@ -31,11 +31,16 @@ AEM as a Cloud Service offers a cloud-native solution for AEM expandability. Dev
 
 ### Tutorial: Server-to-Server authentication with OpenAPI-based APIs
 
-[Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis?lang=en) about how to configure and invoke OpenAPI-based APIs using OAuth Server-to-Server authentication, intended for backend services needing API access without user interaction. You will develop a sample NodeJS application that calls the Assets Author API to retrieve asset metadata.
+[Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/invoke-api-using-oauth-s2s) about how to configure and invoke OpenAPI-based APIs using OAuth Server-to-Server authentication, intended for backend services needing API access without user interaction. You will develop a sample NodeJS application that calls the Assets Author API to retrieve asset metadata.
 
 ### Tutorial: Web App authentication with OpenAPI-based APIs
 
 [Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app) about how to configure and invoke OpenAPI-based APIs using an external web app that performs OAuth Web App authentication, intended for web applications with frontend and backend components needing to access AEM APIs on behalf of a user. You will develop a sample NodeJS application representing a PIM (Product Information Management) solution that interacts with an AEM Author environment.
+
+### Tutorial: Single-Page App authentication with OpenAPI-based APIs
+
+[Follow a tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/invoke-api-using-oauth-single-page-app) about configuring and invoking OpenAPI-based APIs from a purely front-end application like an SPA that performs OAuth Single-Page auth. This method is intended for JavaScript-based applications running in the browser or similar scenarios where there is no backend server or you need to invoke AEM APIs from the client side on behalf of a user.
+You will develop a sample ReactJS application representing an SPA that interacts with an AEM Author environment to fetch Content Fragment Model and DAM folders.
 
 ### Tutorial: Using OpenAPI-based APIs and Events
 
