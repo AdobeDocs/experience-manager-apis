@@ -83,14 +83,10 @@ If the client has taken too much time to poll, the result may be lost and the UR
 
 ### Versioning
 
-The full set of AEM OpenAPI-based APIs gets a version associated with the timing of its release. For example, 2023.9.
-
 Changes to a particular API from one version to the next can only be additive and are thus always backwards compatible. Note that some libraries that are used for parsing JSON have a default configuration that will cause a failure to occur when unexpected properties are found. For example, Jackson, a popular Java library for working with JSON, will throw an UnrecognizedPropertyException in these cases. To avoid these errors from occurring when Adobe adds new properties to existing APIs, the client should configure the library to be forgiving when parsing JSON. For example, in Jackson, the client can set "DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES" to false at the ObjectMapper or "ignoreUnknown" to true at the class level. See the documentation for your JSON parsing library for more information.
 
 Adobe may deprecate an element of an API by flagging it in documentation as deprecated. If a complete endpoint is deprecated, the response returns a **Sunset** header, indicating the targeted removal date.
 
-### Experimental and Unsupported APIs
+### Experimental APIs
 
-Some APIs are marked in documentation as experimental, which implies that Adobe may modify or remove them without warning. Clients must acknowledge that understanding by including a header **X-Adobe-Accept-Experimental** with value of "1". If the invocation of an experimental API does not include this header and value, a 400 status code is returned.
-
-Some APIs may be discoverable and potentially documented, but not intended for the use of customers, and are thus unsupported; there is a risk of being modified or removed by Adobe without warning. It should be noted that these APIs will only be processed if invoked with a header **X-Adobe-Accept-Unsupported-API** with a value of "1".
+Some APIs are marked in documentation as experimental, which implies that Adobe may modify or remove them without warning. Reach out to Adobe if you would like to try an experimental API.
