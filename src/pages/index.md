@@ -15,7 +15,7 @@ A comprehensive content management solution for building websites, mobile apps a
 
 ### Delivery
 
-* [Content Fragments and Model Delivery (Experimental)](./api/experimental/sites/delivery/)
+* [Content Fragment Delivery with OpenAPI](./api/stable/contentfragments/delivery/)
 * [Dynamic Media with Open API](./api/stable/assets/delivery/index.md)
 
 <DiscoverBlock slots="heading, link, text"/>
