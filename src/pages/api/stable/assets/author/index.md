@@ -1,4 +1,4 @@
 ---
 title: Assets Author API
-frameSrc: https://adobe-aem-assets-author-experimental.redoc.ly/
+frameSrc: https://adobe-aem-assets-author.redoc.ly/
 --- 
