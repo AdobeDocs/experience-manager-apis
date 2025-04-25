@@ -32,13 +32,13 @@ A comprehensive content management solution for building websites, mobile apps a
 
 **Assets**
 
-* [Assets Author API (Experimental)](./api/experimental/assets/author/)
+* [Assets Author API](./api/stable/assets/author/)
 
 <DiscoverBlock slots="link, text"/>
 
 **Folders**
 
-* [Folders API (Experimental)](./api/experimental/folders/)
+* [Folders API](./api/stable/folders/)
 
 <DiscoverBlock slots="link, text"/>
 
