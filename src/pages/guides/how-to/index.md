@@ -15,7 +15,7 @@ This guide describes the common patterns applying to all APIs.
 
 ### Authentication
 
-The authentication strategy will depend on whether you plan a server to server or user flow (web app or SPA) implementation, as described in [this article](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/overview#difference-between-oauth-server-to-server-and-oauth-web-app-single-page-app-credentials).
+The authentication strategy will depend on whether you plan a server to server or user flow (web app or SPA) implementation, as described in [this article](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview#authentication-support).
 
 In all cases, [create a project](https://developer.adobe.com/developer-console/docs/guides/projects/projects-empty/) in the Adobe Developer Console, which provides the necessary credentials.
 
