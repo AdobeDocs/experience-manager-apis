@@ -189,3 +189,13 @@ A comprehensive content management solution for building websites, mobile apps a
 * [Granite UI](https://developer.adobe.com/experience-manager/reference-materials/6-5/granite-ui/api/jcr_root/libs/granite/ui/index.html)
 * [Coral UI]( https://developer.adobe.com/experience-manager/reference-materials/6-5/coral-ui/coralui3/index.html)
 * [Classic UI Widgets](https://developer.adobe.com/experience-manager/reference-materials/6-5/granite-ui/api/jcr_root/libs/granite/ui/index.html)
+
+
+## Experimental APIs
+
+The APIs below are experimental and are subject to change or revocation at any time.  They are not supported for use by any customer who is not partnering with Adobe as part of our pre-release software program.  If you are interested in partnering with Adobe on developing and validating these APIs, please reach out to aem-apis@adobe.com or your account representative.
+
+* [Assets Author - Asset Import](./api/experimental/assetimport/assets.md)
+* [Assets Author - Asset Relations](./api/experimental/assetrelations/assets.md)
+* [Assets Author - Asset Upload](./api/experimental/assetupload/assets.md)
+* [Assets Author - Binary Access and Rendition Listing](./api/experimental/binaryaccess/assets.md)
