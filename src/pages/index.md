@@ -190,7 +190,6 @@ A comprehensive content management solution for building websites, mobile apps a
 * [Coral UI]( https://developer.adobe.com/experience-manager/reference-materials/6-5/coral-ui/coralui3/index.html)
 * [Classic UI Widgets](https://developer.adobe.com/experience-manager/reference-materials/6-5/granite-ui/api/jcr_root/libs/granite/ui/index.html)
 
-
 ## Experimental APIs
 
 The APIs below are experimental and are subject to change or revocation at any time.  They are not supported for use by any customer who is not partnering with Adobe as part of our pre-release software program.  If you are interested in partnering with Adobe on developing and validating these APIs, please reach out to aem-apis@adobe.com or your account representative.
