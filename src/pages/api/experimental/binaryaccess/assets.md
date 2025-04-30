@@ -1,4 +1,4 @@
 ---
 title: Assets API (Experimental - binary access)
-frameSrc:
+frameSrc: https://adobe-aem-assets-author-binaryaccess.redoc.ly/#tag/Assets
 ---
