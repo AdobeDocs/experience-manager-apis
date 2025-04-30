@@ -58,7 +58,7 @@ AEM events are routed to Adobe I/O by default and are available instantly as soo
 Current available event types are documented in the AEM API specification as listed below:
 
 * [AEM Sites Author Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/stable/sites/)
-* [AEM Assets Author Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/experimental/assets/author/)
+* [AEM Assets Author Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/stable/assets/author/)
 
 <InlineAlert slots="text" />
 
