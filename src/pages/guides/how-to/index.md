@@ -89,4 +89,4 @@ Adobe may deprecate an element of an API by flagging it in documentation as depr
 
 ### Experimental APIs
 
-Some APIs are marked in documentation as experimental, which implies that Adobe may modify or remove them without warning. Reach out to Adobe if you would like to try an experimental API.
+Some APIs are marked in documentation as experimental, which implies that Adobe may modify or remove them without warning. Reach out to Adobe at [aem-apis@adobe.com](mailto:aem-apis@adobe.com) if you would like to try an experimental API.
