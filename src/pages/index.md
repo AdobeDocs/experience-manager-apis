@@ -56,6 +56,10 @@ A comprehensive content management solution for building websites, mobile apps a
 
 * [Translation Management API](./api/stable/translation/index.md)
 
+**Content AI**
+
+* [Content AI Services API (Experimental)](./api/experimental/contentai/index.md)
+
 ## Other HTTP APIs
 
 <DiscoverBlock slots="heading, link, text"/>
