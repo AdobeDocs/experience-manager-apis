@@ -1,4 +1,4 @@
 ---
 title: Assets Author API
-frameSrc: https://adobe-aem-assets-author.redoc.ly/
 --- 
+<RedoclyAPIBlock src="https://api.redocly.com/registry/bundle/adobe-developers/AEM-assets-author/stable/openapi.yaml?branch=prod" />
