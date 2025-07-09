@@ -1,4 +1,6 @@
 ---
 title: Content AI Services Open API
-frameSrc: https://adobe-aem-contentai-contentai.redoc.ly/
---- 
+layout: none
+---
+
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-contentAI/contentai/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
