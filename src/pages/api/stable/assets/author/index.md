@@ -3,4 +3,4 @@ title: Assets Author API
 layout: none
 --- 
 
-<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-assets-author/stable/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Trebuchet MS", "Lucida Grande", sans-serif`' width='600px' />
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-assets-author/stable/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
