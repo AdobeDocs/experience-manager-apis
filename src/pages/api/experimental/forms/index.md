@@ -1,4 +1,6 @@
 ---
 title: Forms API Experimental
-frameSrc: https://shy-ape-73.redoc.ly/
+layout: none
 --- 
+
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-forms/experimental/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
