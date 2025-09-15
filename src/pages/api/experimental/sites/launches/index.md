@@ -1,5 +1,5 @@
 ---
-title: Launches Open API
+title: Launches OpenAPI
 layout: none
 --- 
 

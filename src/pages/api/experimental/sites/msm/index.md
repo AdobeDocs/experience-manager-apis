@@ -1,5 +1,5 @@
 ---
-title: MSM Open API
+title: MSM OpenAPI
 layout: none
 --- 
 

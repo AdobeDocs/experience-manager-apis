@@ -1,5 +1,5 @@
 ---
-title: Dynamic Media with Open API
+title: Dynamic Media with OpenAPI
 layout: none
 --- 
 
