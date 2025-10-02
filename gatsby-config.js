@@ -14,8 +14,12 @@ module.exports = {
   siteMetadata: {
     pages: [
       {
-        title: 'Adobe Experience Manager API',
+        title: 'Adobe Experience Manager as a Cloud Service APIs',
         path: '/'
+      },
+      {
+        title: 'Adobe Experience Manager 6.5 APIs',
+        path: '/6-5/'
       },
       {
         title: 'Guides',
