@@ -3,4 +3,4 @@ title: Site Management OpenAPI
 layout: none
 --- 
 
-<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-sites-author/experimental/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-sites/aspm/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
