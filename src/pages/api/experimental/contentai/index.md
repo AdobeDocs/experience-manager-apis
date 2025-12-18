@@ -4,7 +4,7 @@ description: Content AI Services
 layout: none
 ---
 
-import GetCredentialsOauth2 from "../../../credentials/GetCredentialOAuth2.js"
+import GetCredentialsOauth2 from "../../../credentials/GetCredentialOauth2.js"
 
 <GetCredentialsOauth2 />
 
