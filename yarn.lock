@@ -33,9 +33,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@adobe/gatsby-theme-aio@npm:^4.15.0":
-  version: 4.15.0
-  resolution: "@adobe/gatsby-theme-aio@npm:4.15.0"
+"@adobe/gatsby-theme-aio@npm:^4.15.5":
+  version: 4.15.5
+  resolution: "@adobe/gatsby-theme-aio@npm:4.15.5"
   dependencies:
     "@adobe/focus-ring-polyfill": ^0.1.5
     "@adobe/gatsby-source-github-file-contributors": ^0.3.1
@@ -131,7 +131,7 @@ __metadata:
     gatsby: ^4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
-  checksum: 9a23ff7173005290d867190dfa35e899b306c2942b2ff01c0881a91b0aa03575caf320261d7b3cd8ca35032cfaabe0f659ee801786d9650b1d330d70c4f7c449
+  checksum: 5184b9506d5aa9bacf8053db80529dbfd0524debece4b405dd993d949faa114fcb7b12cab7996c4962838c941b7c51913b8a4f38f47a4ce857cc13dd87710af8
   languageName: node
   linkType: hard
 
@@ -6387,9 +6387,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.0, caniuse-lite@npm:^1.0.30001400, caniuse-lite@npm:^1.0.30001426":
-  version: 1.0.30001443
-  resolution: "caniuse-lite@npm:1.0.30001443"
-  checksum: e39c17c54c7a2e263c05a7391b1126014be88826e5cacd6cf9e976b87c5a3a3ea3e53ff5d410093dbd56fac7b50fba4d55c2fa4d6b9c6bd28202886d7fedfd70
+  version: 1.0.30001760
+  resolution: "caniuse-lite@npm:1.0.30001760"
+  checksum: 67f04822ab411541f04bcb81257c17b29414c6ba0755f3d4f74f54a79a1aaca844c2bac42b5b863855df8e1df73c5ac8fb133553a951863127a73d40727f7ae4
   languageName: node
   linkType: hard
 
@@ -9117,7 +9117,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "experience-manager-apis@workspace:."
   dependencies:
-    "@adobe/gatsby-theme-aio": ^4.15.0
+    "@adobe/gatsby-theme-aio": ^4.15.5
     gatsby: 4.22.0
     react: ^17.0.2
     react-dom: ^17.0.2
