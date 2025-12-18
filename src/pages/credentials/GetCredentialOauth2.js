@@ -4,8 +4,6 @@ import { graphql, useStaticQuery } from 'gatsby';
 import platform from "./images/platform.png";
 
 const GetCredentialOAuthS2s = () => {
-    console.log('[GetCredentialOauth2] Component rendering');
-
     const data = useStaticQuery(
         graphql`
         query { 
@@ -201,5 +199,4 @@ const GetCredentialOAuthS2s = () => {
 
   )
 }
-console.log("GetCredentialOAuthS2s", GetCredentialOAuthS2s);
 export default GetCredentialOAuthS2s;
