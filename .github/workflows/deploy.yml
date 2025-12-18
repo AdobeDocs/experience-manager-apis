@@ -35,5 +35,5 @@ jobs:
       excludeSubfolder: ${{ inputs.excludeSubfolder }}
       index-mode: ${{ inputs.index-mode }}
       NODE_OPTIONS: "--max-old-space-size=8192"
-      TEMPLATE_ID_DEV: "1234"
-      TEMPLATE_ID_PROD: "5678"
+      TEMPLATE_ID_DEV: "6941ab4732972b9ac08c04ab"
+      TEMPLATE_ID_PROD: "6941abd72e316a5c32fc1bec"
