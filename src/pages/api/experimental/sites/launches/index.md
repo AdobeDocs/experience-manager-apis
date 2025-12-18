@@ -1,4 +1,6 @@
 ---
-title: Launches Open API
-frameSrc: https://adobe-aem-launches-author-experimental.redoc.ly/
+title: Launches OpenAPI
+layout: none
 --- 
+
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-launches-author/experimental/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />

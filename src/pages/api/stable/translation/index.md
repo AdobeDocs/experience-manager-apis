@@ -1,4 +1,6 @@
 ---
 title: Translation Management API
-frameSrc: https://adobe-aem-translation.redoc.ly/
+layout: none
 --- 
+
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-translation/stable/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />

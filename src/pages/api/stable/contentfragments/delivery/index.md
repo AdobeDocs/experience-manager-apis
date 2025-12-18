@@ -1,4 +1,6 @@
 ---
 title: AEM Content Fragment Delivery with OpenAPI
-frameSrc: https://adobe-aem-contentfragments-delivery.redoc.ly
+layout: none
 --- 
+
+<RedoclyAPIBlock src='https://api.redocly.com/registry/bundle/adobe-developers/AEM-contentFragments-delivery/stable/openapi.yaml?branch=prod' typography='fontFamily: `"Source Sans Pro", sans-serif`' />
