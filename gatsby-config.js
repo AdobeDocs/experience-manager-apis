@@ -10,12 +10,6 @@
  * governing permissions and limitations under the License.
  */
 
-require('dotenv').config({
-  path: `.env.${process.env.NODE_ENV || 'development'}`,
-});
-
-console.log('[gatsby-config] GATSBY_TEMPLATE_ID:', process.env.GATSBY_TEMPLATE_ID);
-
 module.exports = {
   siteMetadata: {
     template_id: process.env.GATSBY_TEMPLATE_ID || '',
