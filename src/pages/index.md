@@ -26,6 +26,7 @@ A comprehensive content management solution for building websites, mobile apps a
 **Sites**
 
 * [Content Fragments and Model Management](./api/stable/sites/)
+* [Content Visualisation Templates (Experimental)](./api/experimental/sites/cvt/)
 * [Launches](./api/stable/sites/launches/)
 * [Multisite Manager (Experimental)](./api/experimental/sites/msm/)
 * [Site Management (Experimental)](api/experimental/sites/sm/index.md)
