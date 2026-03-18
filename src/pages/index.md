@@ -3,7 +3,7 @@ title: Adobe Experience Manager as a Cloud Service APIs
 description: A collection of high-level references for all endpoints provided by Adobe Experience Manager as a Cloud Service.
 ---
 
-<Hero slots="heading, text"/>
+<Superhero slots="heading, text"/>
 
 # Adobe Experience Manager as a Cloud Service APIs
 
