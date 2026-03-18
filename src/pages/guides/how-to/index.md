@@ -22,7 +22,7 @@ In all cases, [create a project](https://developer.adobe.com/developer-console/d
 Pass the token as the value of the Authorization header as follows:
 
 ```bash
-curl -H "Authorization: Bearer <access_token>" https://<endpoint_url>
+curl -H "Authorization: Bearer <access_token>" <https://<endpoint_url>
 ```
 
 #### Server to Server authentication \{#auth-s2s}
