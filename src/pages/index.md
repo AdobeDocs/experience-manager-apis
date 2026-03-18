@@ -11,7 +11,7 @@ A comprehensive content management solution for building websites, mobile apps a
 
 ## OpenAPI-based APIs
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link"/>
 
 ### Delivery
 
@@ -19,7 +19,7 @@ A comprehensive content management solution for building websites, mobile apps a
 * [Dynamic Media with OpenAPI](api/stable/assets/delivery/index.md)
 * [Dynamic Media with OpenAPI (Experimental)](api/experimental/assets/delivery/index.md)
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link"/>
 
 ### Applications and Authoring
 
@@ -32,7 +32,7 @@ A comprehensive content management solution for building websites, mobile apps a
 * [Multisite Manager (Experimental)](api/experimental/sites/msm/index.md)
 * [Site Management (Experimental)](api/experimental/sites/sm/index.md)
 * [Page Management (Experimental)](api/experimental/sites/pm/index.md)
-  
+
 <DiscoverBlock slots="link, text"/>
 
 **Assets**
