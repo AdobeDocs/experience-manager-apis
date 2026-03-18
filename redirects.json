@@ -1,0 +1,200 @@
+{
+  "total": 48,
+  "offset": 0,
+  "limit": 48,
+  "data": [
+    {
+      "Source": "/experience-cloud/experience-manager-apis",
+      "Destination": "/experience-cloud/experience-manager-apis/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/index",
+      "Destination": "/experience-cloud/experience-manager-apis/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides/index",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides/how-to",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/how-to/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides/how-to/index",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/how-to/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides/events",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/events/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/guides/events/index",
+      "Destination": "/experience-cloud/experience-manager-apis/guides/events/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/translation",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/translation/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/translation/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/translation/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites/launches",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/launches/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites/launches/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/launches/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites/65lts",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/65lts/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/sites/65lts/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/sites/65lts/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/forms",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/forms/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/forms/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/forms/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/folders",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/folders/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/folders/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/folders/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/contentfragments/delivery",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/contentfragments/delivery/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/contentfragments/delivery/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/contentfragments/delivery/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/assets/delivery",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/assets/delivery/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/assets/delivery/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/assets/delivery/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/assets/author",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/assets/author/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/stable/assets/author/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/stable/assets/author/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/stats",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/stats/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/stats/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/stats/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/sm",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/sm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/sm/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/sm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/pm",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/pm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/pm/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/pm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/msm",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/msm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/msm/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/msm/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/launches",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/launches/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/launches/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/launches/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/cvt",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/cvt/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/sites/cvt/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/sites/cvt/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/forms",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/forms/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/forms/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/forms/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/document",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/document/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/document/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/document/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/contentai",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/contentai/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/contentai/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/contentai/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/assets/delivery",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/assets/delivery/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/assets/delivery/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/assets/delivery/"
+    }
+  ],
+  ":type": "sheet"
+}
