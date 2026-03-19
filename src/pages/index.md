@@ -3,7 +3,7 @@ title: Adobe Experience Manager as a Cloud Service APIs
 description: A collection of high-level references for all endpoints provided by Adobe Experience Manager as a Cloud Service.
 ---
 
-<Hero slots="heading, text"/>
+<Superhero slots="heading, text"/>
 
 # Adobe Experience Manager as a Cloud Service APIs
 
@@ -11,59 +11,59 @@ A comprehensive content management solution for building websites, mobile apps a
 
 ## OpenAPI-based APIs
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link"/>
 
 ### Delivery
 
-* [Content Fragment Delivery with OpenAPI](./api/stable/contentfragments/delivery/)
-* [Dynamic Media with OpenAPI](./api/stable/assets/delivery/index.md)
-* [Dynamic Media with OpenAPI (Experimental)](./api/experimental/assets/delivery/index.md)
+* [Content Fragment Delivery with OpenAPI](api/stable/contentfragments/delivery/index.md)
+* [Dynamic Media with OpenAPI](api/stable/assets/delivery/index.md)
+* [Dynamic Media with OpenAPI (Experimental)](api/experimental/assets/delivery/index.md)
 
-<DiscoverBlock slots="heading, link, text"/>
+<DiscoverBlock slots="heading, link"/>
 
 ### Applications and Authoring
 
 **Sites**
 
-* [Content Fragments and Model Management](./api/stable/sites/)
-* [Content Fragments and Model Management (6.5 LTS)](./api/stable/sites/65lts/)
-* [Content Fragment Visualization Templates (Experimental)](./api/experimental/sites/cvt/)
-* [Launches](./api/stable/sites/launches/)
-* [Multisite Manager (Experimental)](./api/experimental/sites/msm/)
+* [Content Fragments and Model Management](api/stable/sites/index.md)
+* [Content Fragments and Model Management (6.5 LTS)](api/stable/sites/65lts/index.md)
+* [Content Fragment Visualization Templates (Experimental)](api/experimental/sites/cvt/index.md)
+* [Launches](api/stable/sites/launches/index.md)
+* [Multisite Manager (Experimental)](api/experimental/sites/msm/index.md)
 * [Site Management (Experimental)](api/experimental/sites/sm/index.md)
 * [Page Management (Experimental)](api/experimental/sites/pm/index.md)
-  
+
 <DiscoverBlock slots="link, text"/>
 
 **Assets**
 
-* [Assets Author API](./api/stable/assets/author/)
+* [Assets Author API](api/stable/assets/author/index.md)
 
 <DiscoverBlock slots="link, text"/>
 
 **Folders**
 
-* [Folders API](./api/stable/folders/)
+* [Folders API](api/stable/folders/index.md)
 
 <DiscoverBlock slots="link, text"/>
 
 **Forms**
 
-* [Adaptive Forms Runtime API](./api/stable/forms/)
+* [Adaptive Forms Runtime API](api/stable/forms/index.md)
 * [Document Generation Synchronous API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/output-sync)
 * [Document Generation Asynchronous API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/output-batch)
 * [Document Manipulation Synchronous API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync)
-* [Document Services API (Experimental)](./api/experimental/document/)
+* [Document Services API (Experimental)](api/experimental/document/index.md)
 
 <DiscoverBlock slots="link, text"/>
 
 **Translation**
 
-* [Translation Management API](./api/stable/translation/index.md)
+* [Translation Management API](api/stable/translation/index.md)
 
 **Content AI**
 
-* [Content AI Services API (Experimental)](./api/experimental/contentai/index.md)
+* [Content AI Services API (Experimental)](api/experimental/contentai/index.md)
 
 ## Other HTTP APIs
 

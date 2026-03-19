@@ -21,13 +21,13 @@ Before invoking the OpenAPI-based APIs, create an Adobe Developer Console projec
 
 Program with AEM as a Cloud Service's OpenAPI-based APIs, following patterns including authentication, error handling, and selecting between stable and experimental versions.
 
-[Learn more](/src/pages/guides/how-to/index.md)
+[Learn more](how-to/index.md)
 
 ### AEM Events
 
 AEM as a Cloud Service offers a cloud-native solution for AEM expandability. Develop your extension and let it get triggered by events.
 
-[Learn more](/src/pages/guides/events/index.md)
+[Learn more](events/index.md)
 
 ### Tutorial: Server-to-Server authentication with OpenAPI-based APIs
 

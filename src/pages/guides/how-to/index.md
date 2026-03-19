@@ -9,7 +9,7 @@ description: How to use AEM OpenAPI-based APIs
 
 AEM as a Cloud Service offers a variety of APIs that adhere to the [OpenAPI Specification](https://spec.openapis.org/oas/v3.0.3).
 
-For a full list of provided APIs and supported events, see the [APIs documentation](/).
+For a full list of provided APIs and supported events, see the [APIs documentation](/index.md).
 
 This guide describes the common patterns applying to all APIs.
 
@@ -21,15 +21,17 @@ In all cases, [create a project](https://developer.adobe.com/developer-console/d
 
 Pass the token as the value of the Authorization header as follows:
 
-`curl -H "Authorization: Bearer <access_token>" <https://<endpoint_url>`
+```bash
+curl -H "Authorization: Bearer <access_token>" <https://<endpoint_url>
+```
 
-#### Server to Server authentication {#auth-s2s}
+#### Server to Server authentication \{#auth-s2s}
 
 For prototyping purposes (e.g., curl), you can generate an access token by clicking a button in the Adobe Developer Console, [as described](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/#generate-access-tokens).
 
 For application integration, you can programmatically generate an access token [as described](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/#generating-access-tokens-programmatically), potentially using a standard OAuth2 library. It is important to cache the access token as long as it is still active, only retrieving a new token when it has expired.
 
-#### User flow authentication {#auth-userflow}
+#### User flow authentication \{#auth-userflow}
 
 For web app integrations, write code to exchange an authorization code for an access token, [as described](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#access-token-retrieval).
 
