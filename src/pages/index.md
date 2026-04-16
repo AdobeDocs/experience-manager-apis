@@ -50,8 +50,8 @@ A comprehensive content management solution for building websites, mobile apps a
 * Adaptive Forms Runtime API | [GA Docs](api/stable/forms/index.md)
 * Document Generation Synchronous API |  [GA Docs](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/output-sync)
 * Document Generation Asynchronous API | [GA Docs](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/output-batch)
-* [ocument Manipulation Synchronous API | [GA Docs](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync)
-* Document Services API | [GA Docs](api/experimental/document/index.md)
+* Document Manipulation Synchronous API | [GA Docs](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync)
+* Document Services API | [Experimental Docs](api/experimental/document/index.md)
 
 <DiscoverBlock slots="link, text"/>
 
