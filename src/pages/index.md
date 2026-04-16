@@ -15,8 +15,8 @@ A comprehensive content management solution for building websites, mobile apps a
 
 ### Delivery
 
-* Content Fragment Delivery with OpenAPI [GA Docs](api/stable/contentfragments/delivery/index.md)
-* Dynamic Media with OpenAPI [GA Docs](api/stable/assets/delivery/index.md) [Experimental Docs (Next Iteration)](api/experimental/assets/delivery/index.md)
+* Content Fragment Delivery with OpenAPI | [GA Docs](api/stable/contentfragments/delivery/index.md)
+* Dynamic Media with OpenAPI | [GA Docs](api/stable/assets/delivery/index.md) | [Experimental Docs (Next Iteration)](api/experimental/assets/delivery/index.md)
 
 <DiscoverBlock slots="heading, link"/>
 
