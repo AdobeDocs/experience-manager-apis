@@ -59,6 +59,7 @@ Current available event types are documented in the AEM API specification as lis
 
 * [AEM Sites Author Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/stable/sites/)
 * [AEM Assets Author Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/stable/assets/author/)
+* [AEM Assets Delivery Events](https://developer.adobe.com/experience-cloud/experience-manager-apis/api/stable/assets/delivery/)
 
 <InlineAlert slots="text" />
 
