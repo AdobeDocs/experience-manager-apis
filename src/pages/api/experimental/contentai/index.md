@@ -1,5 +1,5 @@
 ---
-title: Content AI Services OpenAPI
+title: Content AI OpenAPI
 layout: none
 ---
 
