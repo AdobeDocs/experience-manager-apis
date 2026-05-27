@@ -1,0 +1,252 @@
+{
+  "total": 26,
+  "offset": 0,
+  "limit": 26,
+  "data": [
+    {
+      "page": "/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/175003407?v=4",
+        "https://avatars.githubusercontent.com/u/41382203?v=4",
+        "https://avatars.githubusercontent.com/u/197809380?v=4",
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/5135791?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
+        "https://avatars.githubusercontent.com/u/1013821?v=4",
+        "https://avatars.githubusercontent.com/u/5786163?v=4",
+        "https://avatars.githubusercontent.com/u/70567208?v=4",
+        "https://avatars.githubusercontent.com/u/3094190?v=4",
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/1628642?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4",
+        "https://avatars.githubusercontent.com/u/1190946?v=4",
+        "https://avatars.githubusercontent.com/u/3064757?v=4",
+        "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "5/27/2026"
+    },
+    {
+      "page": "/api/experimental/assets/delivery/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/5135791?v=4"
+      ],
+      "lastUpdated": "9/15/2025"
+    },
+    {
+      "page": "/api/experimental/contentai-legacy/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/175003407?v=4"
+      ],
+      "lastUpdated": "5/27/2026"
+    },
+    {
+      "page": "/api/experimental/contentai/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/175003407?v=4",
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/170911?v=4"
+      ],
+      "lastUpdated": "5/26/2026"
+    },
+    {
+      "page": "/api/experimental/document/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/70567208?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/experimental/forms/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/experimental/sites/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/3064757?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/experimental/sites/cvt/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "1/12/2026"
+    },
+    {
+      "page": "/api/experimental/sites/launches/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "9/15/2025"
+    },
+    {
+      "page": "/api/experimental/sites/msm/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "9/15/2025"
+    },
+    {
+      "page": "/api/experimental/sites/pm/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/197809380?v=4"
+      ],
+      "lastUpdated": "10/3/2025"
+    },
+    {
+      "page": "/api/experimental/sites/sm/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/197809380?v=4"
+      ],
+      "lastUpdated": "10/3/2025"
+    },
+    {
+      "page": "/api/experimental/stats/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/3094190?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/stable/assets/author/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4"
+      ],
+      "lastUpdated": "7/9/2025"
+    },
+    {
+      "page": "/api/stable/assets/delivery/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/13196365?v=4",
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "9/15/2025"
+    },
+    {
+      "page": "/api/stable/contentfragments/delivery/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/1013821?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/stable/folders/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/stable/forms/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/stable/sites/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/3064757?v=4",
+        "https://avatars.githubusercontent.com/u/1190946?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/484584?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/stable/sites/65lts/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "2/13/2026"
+    },
+    {
+      "page": "/api/stable/sites/launches/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "11/10/2025"
+    },
+    {
+      "page": "/api/stable/translation/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/170911?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/config",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/41382203?v=4"
+      ],
+      "lastUpdated": "3/18/2026"
+    },
+    {
+      "page": "/guides/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/41382203?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/1190946?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
+        "https://avatars.githubusercontent.com/u/3958409?v=4",
+        "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "3/18/2026"
+    },
+    {
+      "page": "/guides/events/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/41382203?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
+        "https://avatars.githubusercontent.com/u/57102571?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4",
+        "https://avatars.githubusercontent.com/u/37181653?v=4"
+      ],
+      "lastUpdated": "5/4/2026"
+    },
+    {
+      "page": "/guides/how-to/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/41382203?v=4",
+        "https://avatars.githubusercontent.com/u/64735266?v=4",
+        "https://avatars.githubusercontent.com/u/1190946?v=4",
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
+        "https://avatars.githubusercontent.com/u/3958409?v=4",
+        "https://avatars.githubusercontent.com/u/3064757?v=4",
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "3/18/2026"
+    }
+  ],
+  ":type": "sheet"
+}
