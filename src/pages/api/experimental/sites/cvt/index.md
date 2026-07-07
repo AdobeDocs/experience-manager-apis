@@ -1,5 +1,5 @@
 ---
-title: Preview Templates APIs
+title: Content Fragment Visualization Templates
 layout: none
 --- 
 
