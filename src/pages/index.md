@@ -27,7 +27,7 @@ A comprehensive content management solution for building websites, mobile apps a
 
 * [Content Fragments and Model Management](api/stable/sites/index.md)
 * [Content Fragments and Model Management (6.5 LTS)](api/stable/sites/65lts/index.md)
-* [Content Fragment Visualization Templates (Experimental)](api/experimental/sites/cvt/index.md)
+* [Content Fragment Visualization Templates](api/stable/sites/cvt/index.md)
 * [Launches](api/stable/sites/launches/index.md)
 * [Multisite Manager (Experimental)](api/experimental/sites/msm/index.md)
 * [Site Management (Experimental)](api/experimental/sites/sm/index.md)
