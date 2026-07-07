@@ -1,7 +1,7 @@
 {
-  "total": 26,
+  "total": 27,
   "offset": 0,
-  "limit": 26,
+  "limit": 27,
   "data": [
     {
       "page": "/",
@@ -24,7 +24,7 @@
         "https://avatars.githubusercontent.com/u/3064757?v=4",
         "https://avatars.githubusercontent.com/u/57922?v=4"
       ],
-      "lastUpdated": "5/27/2026"
+      "lastUpdated": "7/7/2026"
     },
     {
       "page": "/api/experimental/assets/delivery/",
@@ -83,7 +83,7 @@
       "avatars": [
         "https://avatars.githubusercontent.com/u/35950782?v=4"
       ],
-      "lastUpdated": "1/12/2026"
+      "lastUpdated": "7/7/2026"
     },
     {
       "page": "/api/experimental/sites/launches/",
@@ -188,6 +188,13 @@
         "https://avatars.githubusercontent.com/u/35950782?v=4"
       ],
       "lastUpdated": "2/13/2026"
+    },
+    {
+      "page": "/api/stable/sites/cvt/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/35950782?v=4"
+      ],
+      "lastUpdated": "7/7/2026"
     },
     {
       "page": "/api/stable/sites/launches/",
