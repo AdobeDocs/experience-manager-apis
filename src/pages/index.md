@@ -38,20 +38,12 @@ A comprehensive content management solution for building websites, mobile apps a
 **Assets**
 
 * [Assets Author API](api/stable/assets/author/index.md)
-* [Assets Author API (Experimental)](api/experimental/assets/author/metaall.md)
-
-<DiscoverBlock slots="link, text"/>
-
-**Tags**
-
-* [Tags Author API (Experimental)](api/experimental/tags/author/metaall.md)
 
 <DiscoverBlock slots="link, text"/>
 
 **Folders**
 
 * [Folders API](api/stable/folders/index.md)
-* [Folders API (Experimental)](api/experimental/folders/metaall.md)
 
 <DiscoverBlock slots="link, text"/>
 
