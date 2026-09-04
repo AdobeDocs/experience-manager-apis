@@ -1,7 +1,7 @@
 {
-  "total": 28,
+  "total": 29,
   "offset": 0,
-  "limit": 28,
+  "limit": 29,
   "data": [
     {
       "page": "/",
@@ -25,7 +25,7 @@
         "https://avatars.githubusercontent.com/u/3064757?v=4",
         "https://avatars.githubusercontent.com/u/57922?v=4"
       ],
-      "lastUpdated": "9/2/2026"
+      "lastUpdated": "9/4/2026"
     },
     {
       "page": "/api/experimental/assets/delivery/",
@@ -127,6 +127,13 @@
         "https://avatars.githubusercontent.com/u/484584?v=4"
       ],
       "lastUpdated": "7/22/2025"
+    },
+    {
+      "page": "/api/experimental/tags/author/tags",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/17324338?v=4"
+      ],
+      "lastUpdated": "9/4/2026"
     },
     {
       "page": "/api/stable/assets/author/",
