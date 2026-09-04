@@ -41,6 +41,12 @@ A comprehensive content management solution for building websites, mobile apps a
 
 <DiscoverBlock slots="link, text"/>
 
+**Tags**
+
+* [Tags Author API (Experimental)](api/experimental/tags/author/tags.md)
+
+<DiscoverBlock slots="link, text"/>
+
 **Folders**
 
 * [Folders API](api/stable/folders/index.md)
