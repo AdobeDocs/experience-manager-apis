@@ -38,6 +38,7 @@ A comprehensive content management solution for building websites, mobile apps a
 **Assets**
 
 * [Assets Author API](api/stable/assets/author/index.md)
+* [Assets Author API (Experimental)](api/experimental/assets/author/index.md)
 
 <DiscoverBlock slots="link, text"/>
 
