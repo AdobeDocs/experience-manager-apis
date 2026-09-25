@@ -1,11 +1,12 @@
 {
-  "total": 29,
+  "total": 30,
   "offset": 0,
-  "limit": 29,
+  "limit": 30,
   "data": [
     {
       "page": "/",
       "avatars": [
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
         "https://avatars.githubusercontent.com/u/17324338?v=4",
         "https://avatars.githubusercontent.com/u/175003407?v=4",
         "https://avatars.githubusercontent.com/u/35950782?v=4",
@@ -13,7 +14,6 @@
         "https://avatars.githubusercontent.com/u/197809380?v=4",
         "https://avatars.githubusercontent.com/u/13196365?v=4",
         "https://avatars.githubusercontent.com/u/5135791?v=4",
-        "https://avatars.githubusercontent.com/u/2913944?v=4",
         "https://avatars.githubusercontent.com/u/1013821?v=4",
         "https://avatars.githubusercontent.com/u/5786163?v=4",
         "https://avatars.githubusercontent.com/u/70567208?v=4",
@@ -24,6 +24,14 @@
         "https://avatars.githubusercontent.com/u/1190946?v=4",
         "https://avatars.githubusercontent.com/u/3064757?v=4",
         "https://avatars.githubusercontent.com/u/57922?v=4"
+      ],
+      "lastUpdated": "9/25/2026"
+    },
+    {
+      "page": "/api/experimental/assets/author/",
+      "avatars": [
+        "https://avatars.githubusercontent.com/u/2913944?v=4",
+        "https://avatars.githubusercontent.com/u/17324338?v=4"
       ],
       "lastUpdated": "9/25/2026"
     },
