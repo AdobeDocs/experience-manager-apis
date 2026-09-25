@@ -108,6 +108,14 @@
       "Destination": "/experience-cloud/experience-manager-apis/api/stable/assets/author/"
     },
     {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/assets/author",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/assets/author/"
+    },
+    {
+      "Source": "/experience-cloud/experience-manager-apis/api/experimental/assets/author/index",
+      "Destination": "/experience-cloud/experience-manager-apis/api/experimental/assets/author/"
+    },
+    {
       "Source": "/experience-cloud/experience-manager-apis/api/experimental/stats",
       "Destination": "/experience-cloud/experience-manager-apis/api/experimental/stats/"
     },
