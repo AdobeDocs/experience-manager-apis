@@ -23,6 +23,10 @@ Program with AEM as a Cloud Service's OpenAPI-based APIs, following patterns inc
 
 [Learn more](how-to/index.md)
 
+## Experimental APIs
+
+An overview of the AEM experimental API program, what it means for customers, and how customers can get engaged.
+
 ### AEM Events
 
 AEM as a Cloud Service offers a cloud-native solution for AEM expandability. Develop your extension and let it get triggered by events.
