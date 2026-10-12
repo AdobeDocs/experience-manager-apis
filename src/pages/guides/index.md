@@ -23,9 +23,11 @@ Program with AEM as a Cloud Service's OpenAPI-based APIs, following patterns inc
 
 [Learn more](how-to/index.md)
 
-## Experimental APIs
+### Experimental APIs
 
 An overview of the AEM experimental API program, what it means for customers, and how customers can get engaged.
+
+[Learn more](experiments.md)
 
 ### AEM Events
 
